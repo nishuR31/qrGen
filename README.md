@@ -25,11 +25,10 @@ Generate QR codes instantly for any text or URL, and download them for later use
 
 ---
 
-##  Screenshots  
-> *(Add screenshots here for better visuals)*
+##  Screenshot
 
-![App Screenshot Placeholder](https://via.placeholder.com/800x400?text=Screenshot+1)  
-![App Screenshot Placeholder](https://via.placeholder.com/800x400?text=Screenshot+2)
+![Homepage](logo.png)  
+
 
 ---
 
