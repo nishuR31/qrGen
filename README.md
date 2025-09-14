@@ -45,8 +45,6 @@ Generate QR codes instantly for any text or URL, and download them for later use
 ```
 qrGen/
 │── index.html
-│── style.css
-│── script.js
 │── README.md
 ```
 
